@@ -5,11 +5,9 @@
 
 ---
 
-## 🔗 Xem trực tiếp Blog / Báo cáo thực tập
+## 🔗 Xem Blog / Báo cáo thực tập trực tiếp tại đây
 
-### 👉 **[https://thangbba.github.io/BuiTrongThang-Blog-AWS/](https://thangbba.github.io/BuiTrongThang-Blog-AWS/)**
-
-*(Bấm vào link trên để vào xem toàn bộ báo cáo thực tập online)*
+**[https://thangbba.github.io/BuiTrongThang-Blog-AWS/](https://thangbba.github.io/BuiTrongThang-Blog-AWS/)**
 
 ---
 
@@ -51,3 +49,5 @@ Mở trình duyệt tại `http://localhost:1313/`.
 **Sinh viên:** Bùi Trọng Thắng · **MSSV:** 2280602983 · **Lớp:** 22DTHA3
 **Trường:** HUTECH · **Chuyên ngành:** An ninh mạng
 **Đơn vị thực tập:** Công ty TNHH Amazon Web Services Việt Nam
+
+# BuiTrongThang-Blog-AWS
