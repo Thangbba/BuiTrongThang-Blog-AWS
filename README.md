@@ -1,4 +1,4 @@
-# 📘 Internship Report — Bùi Trọng Thắng
+hu# 📘 Internship Report — Bùi Trọng Thắng
 
 **Amazon Web Services Vietnam Company Limited** — First Cloud AI Journey (FCAJ) Workforce Bootcamp
 *(20/04/2026 – 10/07/2026)*
